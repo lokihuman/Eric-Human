@@ -1,0 +1,5 @@
+{
+  "name": "CyberSnake: Neural Breach",
+  "description": "A high-octane, cyberpunk-styled Snake game. Navigate the neon grid, consume data packets (food) to breach the system, and avoid the neural firewalls (walls/self). Features dynamic AI-generated system commentary powered by Gemini.",
+  "requestFramePermissions": []
+}
